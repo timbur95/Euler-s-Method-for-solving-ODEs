@@ -27,4 +27,4 @@ var table = ' ';									//defines table
 
 }
 
-document.write('<table border = 3 bordercollapse: collapse>' + table + '</table>');	//writes table to document
+document.write('<table border = 3>' + table + '</table>');	//writes table to document
