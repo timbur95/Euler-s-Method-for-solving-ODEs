@@ -1,17 +1,9 @@
 <html>
-
-	<head>
-
-		<h2>Euler's Method</h2>
-
-	</head>
-
-			<body>
-
-				<script src="C:\Users\file\path\script.js">
-				
-				</script>
-
-			</body>
-
+  <head>
+   <h2>Euler's Method</h2>
+  </head>
+  <body>
+    <script src="C:\Users\file\path\script.js">
+    </script>
+  </body>
 </html>
